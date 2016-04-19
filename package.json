@@ -1,0 +1,16 @@
+{
+    "name": "data-structure-and-algorithms-with-js",
+    "version": "1.0.0",
+    "description": "notes learning Michael McMillan's Data Structure and Algorithms with Javascript",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/AngusFu/data-structure-and-algorithms-with-js.git"
+    },
+    "author": "angusfu1126@qq.com",
+    "license": "MIT",
+    "dependencies": {}
+}
