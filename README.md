@@ -10,4 +10,8 @@ notes learning Michael McMillan's *Data Structure and Algorithms with Javascript
 
 ### [栈 Stack](./src/ch4-Stack.md)
 
+### [队列 Queue](./src/ch5-Queue.md)
+
+### [链表 LinkedList](./src/ch6-LinkedList.md)
+
 ### To be continued
